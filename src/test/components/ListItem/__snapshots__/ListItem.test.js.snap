@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en <ListItem></ListItem> Se debe cargar el componente correctamente 1`] = `
+<ListItem
+  artists="Iron Maiden"
+  id="123"
+  name="Iron"
+  preview_url="https://github.com/"
+/>
+`;

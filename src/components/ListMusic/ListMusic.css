@@ -1,0 +1,22 @@
+.search {
+  display: block;
+  font-size: 24px;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.text1 {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 28px;
+  text-transform: none;
+}
+
+.notFound {
+  color: #fff;
+  padding-top: 25%;
+  text-align: center;
+}

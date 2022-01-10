@@ -1,0 +1,34 @@
+.song {
+  border-top: 1px solid;
+  margin: 10px 0px;
+  padding: 10px;
+}
+
+.song:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.details {
+  vertical-align: middle;
+}
+
+.audio {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.artist {
+  display: block;
+  font-size: 14px;
+}
+
+audio {
+  float: right;
+}
+
+.name {
+  color: #fff;
+}
